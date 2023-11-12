@@ -39,5 +39,3 @@ function btnOnSubmit(event) {
     delay += Number(form.step.value);
   }
 }
-
-
